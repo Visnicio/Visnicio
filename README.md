@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Hello There ✋
 
@@ -18,8 +18,6 @@
 
 
 ## Current learning Tech Stack
-
-</center>
 <div style="display: flex; justify-content: center">
     <img align="center" style="margin: 0px 5px;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" style="margin: 0px 5px;" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -32,12 +30,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Visnicio)](https://github.com/Visnicio/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Visnicio&layout=compact)](https://github.com/Visnicio/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Visnicio&show_icons=true&theme=onedark)
 
 </div>
 
-<center>
 
 ## General Knowledge
 
@@ -56,4 +52,4 @@
 
 </div>
 
-</center>
+</div>
