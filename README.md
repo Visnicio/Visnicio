@@ -2,7 +2,7 @@
 
 # Hello There ✋
 
-### Vinicius Antonio da Silva - FullStack Intern
+### Vinicius Antonio da Silva - Junior developer
 
 ## Find me on Social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-antonio-da-silva-5670a31b9/)
